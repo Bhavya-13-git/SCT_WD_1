@@ -1,0 +1,68 @@
+# 🌐 SkillCraft Landing Page
+
+This repository (`SCT_LandingPage`) is created as part of my internship task at **Skill Craft Technology**.
+
+## 🚀 Project Overview
+
+A modern, elegant, and responsive **landing page** for Skill Craft Technology featuring:
+
+- 🧠 Typing animation for "Skill Craft Technology"
+- 🖼️ Integrated logo and hero section
+- 🔗 Fixed navigation bar with scroll effects
+- 🎨 Clean color palette and soft UI transitions
+- 📱 Fully responsive across screen sizes
+
+Built using **HTML**, **CSS**, and **Vanilla JavaScript** — no frameworks, no Bootstrap, just pure frontend craftsmanship.
+
+---
+
+## 🛠 Features
+
+- ✅ Responsive fixed navbar with scroll effect
+- ✅ Typing animation with blinking cursor
+- ✅ Sections: Home, About, Services, Contact
+- ✅ Smooth fade-in animations on scroll
+- ✅ Logo added with brand styling
+- ✅ Social media icons in the contact section
+- ✅ Fully mobile-friendly layout
+
+---
+
+## 📂 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Icons:** Font Awesome
+- **Tools:** VS Code, GitHub
+
+---
+
+## 📁 Folder Structure
+
+SCT_LandingPage/
+├── index.html
+├── logo.png # Skill Craft logo
+├── README.md
+
+---
+
+## 📌 How to Run
+
+1. Clone the repo:
+```bash
+git clone https://github.com/your-username/SCT_LandingPage.git
+2.Open index.html in any browser.
+
+3.Scroll through the sections and enjoy the experience!
+
+📝 Internship Project
+This project is submitted as part of the Web Development Internship under Skill Craft Technology. The objective was to build an interactive, responsive landing page using pure HTML, CSS, and JavaScript without any frameworks.
+
+🙌 Acknowledgments
+Huge thanks to Skill Craft Technology for the guidance, mentorship, and valuable tasks that pushed me to grow as a frontend developer.
+
+📬 Connect With Me
+💼 LinkedIn
+
+https://www.linkedin.com/in/bhavya-sree-musidipalli
+
+📧 Email: bhavya050913@gmail.com
